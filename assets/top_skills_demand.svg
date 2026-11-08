@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="370" viewBox="0 0 1000 370" role="img" aria-labelledby="title description">
+  <title id="title">Most-requested skills in remote Data Analyst postings</title>
+  <desc id="description">SQL has 7,291 job-skill matches, Excel 4,611, Python 4,330, Tableau 3,745, and Power BI 2,609.</desc>
+  <rect width="1000" height="370" fill="#ffffff"/>
+  <text x="60" y="46" fill="#172554" font-family="Arial, sans-serif" font-size="25" font-weight="700">Most-requested skills</text>
+  <text x="60" y="74" fill="#475569" font-family="Arial, sans-serif" font-size="15">Remote Data Analyst postings | job-to-skill matches</text>
+  <g stroke="#e2e8f0" stroke-width="1">
+    <line x1="250" y1="100" x2="250" y2="300"/>
+    <line x1="423" y1="100" x2="423" y2="300"/>
+    <line x1="596" y1="100" x2="596" y2="300"/>
+    <line x1="769" y1="100" x2="769" y2="300"/>
+    <line x1="942" y1="100" x2="942" y2="300"/>
+  </g>
+  <g fill="#64748b" font-family="Arial, sans-serif" font-size="13" text-anchor="middle">
+    <text x="250" y="326">0</text><text x="423" y="326">2,000</text>
+    <text x="596" y="326">4,000</text><text x="769" y="326">6,000</text>
+    <text x="942" y="326">8,000</text>
+  </g>
+  <g fill="#334155" font-family="Arial, sans-serif" font-size="15" text-anchor="end">
+    <text x="230" y="128">SQL</text><text x="230" y="166">Excel</text>
+    <text x="230" y="204">Python</text><text x="230" y="242">Tableau</text>
+    <text x="230" y="280">Power BI</text>
+  </g>
+  <g fill="#2563eb">
+    <rect x="250" y="110" width="631" height="24" rx="4"/>
+    <rect x="250" y="148" width="399" height="24" rx="4"/>
+    <rect x="250" y="186" width="375" height="24" rx="4"/>
+    <rect x="250" y="224" width="324" height="24" rx="4"/>
+    <rect x="250" y="262" width="226" height="24" rx="4"/>
+  </g>
+  <g fill="#0f172a" font-family="Arial, sans-serif" font-size="14">
+    <text x="889" y="128">7,291</text><text x="657" y="166">4,611</text>
+    <text x="633" y="204">4,330</text><text x="582" y="242">3,745</text>
+    <text x="484" y="280">2,609</text>
+  </g>
+</svg>

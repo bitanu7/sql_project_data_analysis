@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="590" viewBox="0 0 1000 590" role="img" aria-labelledby="title description">
+  <title id="title">Highest average salaries for remote Data Analyst skills with more than 10 matches</title>
+  <desc id="description">Go leads with an average annual salary of 115,320 dollars across 27 matches. Confluence averages 114,210 across 11, Hadoop 113,193 across 22, Snowflake 112,948 across 37, Azure 111,225 across 34, BigQuery 109,654 across 13, AWS 108,317 across 32, Java 106,906 across 17, SSIS 106,683 across 12, and Jira 104,918 across 20.</desc>
+  <rect width="1000" height="590" fill="#ffffff"/>
+  <text x="60" y="46" fill="#172554" font-family="Arial, sans-serif" font-size="25" font-weight="700">Highest average salaries by skill</text>
+  <text x="60" y="74" fill="#475569" font-family="Arial, sans-serif" font-size="15">Remote Data Analyst postings | annual salary | more than 10 matches</text>
+  <g stroke="#e2e8f0" stroke-width="1">
+    <line x1="300" y1="105" x2="300" y2="500"/>
+    <line x1="450" y1="105" x2="450" y2="500"/>
+    <line x1="600" y1="105" x2="600" y2="500"/>
+    <line x1="750" y1="105" x2="750" y2="500"/>
+    <line x1="900" y1="105" x2="900" y2="500"/>
+  </g>
+  <g fill="#64748b" font-family="Arial, sans-serif" font-size="13" text-anchor="middle">
+    <text x="300" y="525">$0</text><text x="450" y="525">$30k</text>
+    <text x="600" y="525">$60k</text><text x="750" y="525">$90k</text>
+    <text x="900" y="525">$120k</text>
+  </g>
+  <g fill="#334155" font-family="Arial, sans-serif" font-size="15" text-anchor="end">
+    <text x="280" y="130">Go (n=27)</text><text x="280" y="168">Confluence (n=11)</text>
+    <text x="280" y="206">Hadoop (n=22)</text><text x="280" y="244">Snowflake (n=37)</text>
+    <text x="280" y="282">Azure (n=34)</text><text x="280" y="320">BigQuery (n=13)</text>
+    <text x="280" y="358">AWS (n=32)</text><text x="280" y="396">Java (n=17)</text>
+    <text x="280" y="434">SSIS (n=12)</text><text x="280" y="472">Jira (n=20)</text>
+  </g>
+  <g fill="#0f766e">
+    <rect x="300" y="112" width="577" height="24" rx="4"/>
+    <rect x="300" y="150" width="571" height="24" rx="4"/>
+    <rect x="300" y="188" width="566" height="24" rx="4"/>
+    <rect x="300" y="226" width="565" height="24" rx="4"/>
+    <rect x="300" y="264" width="556" height="24" rx="4"/>
+    <rect x="300" y="302" width="548" height="24" rx="4"/>
+    <rect x="300" y="340" width="542" height="24" rx="4"/>
+    <rect x="300" y="378" width="535" height="24" rx="4"/>
+    <rect x="300" y="416" width="533" height="24" rx="4"/>
+    <rect x="300" y="454" width="524" height="24" rx="4"/>
+  </g>
+  <g fill="#0f172a" font-family="Arial, sans-serif" font-size="13">
+    <text x="883" y="130">$115,320</text><text x="877" y="168">$114,210</text>
+    <text x="872" y="206">$113,193</text><text x="871" y="244">$112,948</text>
+    <text x="862" y="282">$111,225</text><text x="854" y="320">$109,654</text>
+    <text x="848" y="358">$108,317</text><text x="841" y="396">$106,906</text>
+    <text x="839" y="434">$106,683</text><text x="830" y="472">$104,918</text>
+  </g>
+  <text x="60" y="565" fill="#64748b" font-family="Arial, sans-serif" font-size="12">Average salaries are based on salary-reported matches; sample sizes vary by skill.</text>
+</svg>
